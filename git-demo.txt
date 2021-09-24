@@ -1,0 +1,5 @@
+This is git demo text file.
+step1: create git repo.
+step2: clone it.
+step3: add your file to it.
+step4: push it.
